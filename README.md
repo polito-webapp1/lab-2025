@@ -1,7 +1,5 @@
 # [Web Applications I / Applicazioni Web I (2024/2025)](https://github.com/polito-webapp1)
 
-Laboratories solutions (under development) for the course of _Web Applications I_ (in English) and _Applicazioni Web I_ (in Italian) for the Master Degree in Computer Engineering at Politecnico di Torino.
-
 Overall labs specification
 
 - Lab 01: Getting Started with Node.js
