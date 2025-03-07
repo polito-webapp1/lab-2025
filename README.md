@@ -2,8 +2,8 @@
 
 Overall labs specification
 
-- Lab 01: [Getting Started with Node.js](https://github.com/polito-webapp1/lab-2025/blob/main/Lab01/Lab01.pdf)
-- Lab 02: Database Integration
+- Lab 01: [Getting Started with Node.js](https://polito-webapp1.github.io/lab-2025/Lab01/Lab01.pdf)
+- Lab 02: [Database Integration](https://polito-webapp1.github.io/lab-2025/Lab02/Lab02.pdf)
 - Lab 03: APIs with Express
 - Lab 04: Getting started with HTML and CSS
 - Lab 05: JavaScript in the Browser
