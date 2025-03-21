@@ -5,7 +5,7 @@ Overall labs specification
 - Lab 01: [Getting Started with Node.js](https://polito-webapp1.github.io/lab-2025/Lab01/Lab01.pdf)
 - Lab 02: [Database Integration](https://polito-webapp1.github.io/lab-2025/Lab02/Lab02.pdf)
 - Lab 03: [APIs with Express](https://polito-webapp1.github.io/lab-2025/Lab03/Lab03.pdf)
-- Lab 04: Getting started with HTML and CSS
+- Lab 04: [Getting started with HTML and CSS](https://polito-webapp1.github.io/lab-2025/Lab04/Lab04.pdf)
 - Lab 05: JavaScript in the Browser
 - Lab 06: Getting started with React
 - Lab 07: React Forms
